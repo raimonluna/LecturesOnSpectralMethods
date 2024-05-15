@@ -1,3 +1,7 @@
+
+# Specific files from this repository
+Experiments.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
