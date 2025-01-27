@@ -50,3 +50,8 @@ as well as some examples here and there from my own research and other papers in
 <a href="https://colab.research.google.com/github/raimonluna/LecturesOnSpectralMethods/blob/main/Lecture6_TimeEvolution.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+### 7. Multi-Domain Grids and Quasinormal Modes
+<a href="https://colab.research.google.com/github/raimonluna/LecturesOnSpectralMethods/blob/main/Lecture7_Multidomain_Qasinormal_Modes.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
